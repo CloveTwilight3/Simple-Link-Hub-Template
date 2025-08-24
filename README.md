@@ -22,3 +22,26 @@ Change the colors by editing the CSS variables at the top of `style.css`:
   --secondary-color: #9b7cb6;      /* Text accent color */
   --bg-gradient: linear-gradient(135deg, #2a1b3d, #44318d, #6b5b95);
 }
+```
+
+### Fonts
+The template uses JetBrains Mono from Google Fonts. To change it, replace the Google Fonts link in `index.html` and update the `font-family` in `style.css`.
+
+### Adding Links
+Copy this line in the `.links` div and customize:
+```html
+<a href="your-url-here" class="btn">🔗 Your Link Text</a>
+```
+
+## 📱 Features
+- Fully responsive design
+- Smooth hover animations
+- Social media meta tags
+- Easy color customization
+- Clean, modern aesthetic
+
+## 🌟 Demo
+[View Live Demo](https://clovetwilight3.co.uk)
+
+---
+Made with ❤️ using the Simple Link Hub template
