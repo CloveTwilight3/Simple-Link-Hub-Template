@@ -2,7 +2,7 @@
 
 A beautiful, responsive personal link hub template with a purple gradient theme.
 
-![Preview](<img width="1920" height="1042" alt="{846CCCEC-577C-4808-B3FB-60358A27A432}" src="https://github.com/user-attachments/assets/e797ac33-dcdf-4133-911f-27daf275d131" />)
+<img width="1920" height="1042" alt="{846CCCEC-577C-4808-B3FB-60358A27A432}" src="https://github.com/user-attachments/assets/e797ac33-dcdf-4133-911f-27daf275d131" />
 
 ## 🚀 Quick Start
 
