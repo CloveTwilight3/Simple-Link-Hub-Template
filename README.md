@@ -1,8 +1,8 @@
 # Simple Link Hub Template
 A beautiful, responsive personal link hub template with a purple gradient theme.
 
-![License](https://img.shields.io/github/license/clovetwilight3/portfolio.clovetwilight3.co.uk)
-![GitHub last commit](https://img.shields.io/github/last-commit/clovetwilight3/portfolio.clovetwilight3.co.uk)
+![License](https://img.shields.io/github/license/clovetwilight3/Simple-Link-Hub-Template)
+![GitHub last commit](https://img.shields.io/github/last-commit/clovetwilight3/Simple-Link-Hub-Template)
 
 [![Use this template](https://img.shields.io/badge/use%20this-template-blue?logo=github)](https://github.com/new?template_name=Simple-Link-Hub-Template&template_owner=CloveTwilight3)
 
