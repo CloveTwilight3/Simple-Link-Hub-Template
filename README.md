@@ -1,6 +1,13 @@
 # Simple Link Hub Template
-
 A beautiful, responsive personal link hub template with a purple gradient theme.
+
+## Create from Template
+[![Use this template](https://img.shields.io/badge/Use_this_template-2ea043?style=for-the-badge&logo=github&logoColor=white)](https://github.com/new?template_name=Simple-Link-Hub-Template&template_owner=CloveTwilight3)
+
+## Deploy Options
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FCloveTwilight3%2FSimple-Link-Hub-Template)
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/CloveTwilight3/Simple-Link-Hub-Template)
 
 <img width="1920" height="1042" alt="{6565BE39-18E2-4BF0-8C90-D54319F97D08}" src="https://github.com/user-attachments/assets/bd59fbd6-50cd-4f14-b26c-6aeaa6447e9a" />
 
