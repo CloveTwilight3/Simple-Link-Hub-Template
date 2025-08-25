@@ -52,5 +52,10 @@ Copy this line in the `.links` div and customize:
 ## 🌟 Demo
 [View Live Demo](https://clovetwilight3.co.uk)
 
+## Contributors
+<a href="https://github.com/CloveTwilight3/clovetwilight3/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CloveTwilight3/Simple-Link-Hub-Template" />
+</a>
+
 ---
 Made with ❤️ using the Simple Link Hub template
